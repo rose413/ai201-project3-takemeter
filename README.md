@@ -165,7 +165,7 @@ The baseline was heavily biased toward Opinion: it correctly identified 87% of t
 |-------|----------|-----------------|
 | Baseline (zero-shot) | 66.7% | 20 / 30 |
 | Fine-tuned DistilBERT | 83.3% | 25 / 30 |
-| **Improvement** | **+16.7 pp** | **+5** |
+| **Improvement** | **+16.6 ** | **+5** |
 
 ---
 
